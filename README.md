@@ -54,7 +54,7 @@ classification_job.set_limits(
  'mlflow.runName': 'maroon_boot_jb0dh2jnb6', 
  'mlflow.user': 'Boris Bellido'}
 
-
+```
 Se puede observar que la etiqueta "run_algorithm_000" enumera los nombres de los algoritmos utilizados, como LightGBM, XGBoostClassifier, ExtremeRandomTrees, VotingEnsemble y StackEnsemble. Esto sugiere que se ha realizado un apilamiento (stacking) de modelos, y estos son algunos de los algoritmos utilizados en ese proceso.
 
 Las etiquetas "fit_time_000," "training_percent_000," y "predicted_cost_000" proporcionan información sobre el tiempo de ajuste, el porcentaje de entrenamiento y el costo previsto para cada modelo.
@@ -69,7 +69,7 @@ El mejor modelo fue el "Voting" que obtuvo un rendimiento en diferentes aspectos
 
 El proyecto se encuentra en:
     
-    El video de la explicación  https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S
+    El video de la explicación  [https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S](https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S)
     El link del dataset [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
 
