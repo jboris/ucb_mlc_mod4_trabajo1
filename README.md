@@ -69,7 +69,8 @@ El mejor modelo fue el "Voting" que obtuvo un rendimiento en diferentes aspectos
 
 El proyecto se encuentra en:
     
-    El video de la explicación  [https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S](https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S)
-    El link del dataset [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
+El video de la explicación  [https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S](https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S)
+
+El link del dataset [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
 
