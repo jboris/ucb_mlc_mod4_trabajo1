@@ -1,6 +1,6 @@
 # Proyecto 1 módulo 4
 
-Para el presente proyecto se escogió un dataset de la página Kaggle, el cual tiene un contexto interesante, es una compañía que desea lanzar al mercado una nueva marca de teléfonos móviles, para estimar sus precios de venta recopila un conjunto de datos de ventas de teléfonos móviles de diversas compañías que se ofrecen en el mercado.
+Para el presente proyecto se escogió un [dataset de la página Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data), el cual tiene un contexto interesante, es una compañía que desea lanzar al mercado una nueva marca de teléfonos móviles, para estimar sus precios de venta recopila un conjunto de datos de ventas de teléfonos móviles de diversas compañías que se ofrecen en el mercado.
 
 Despues de la limpieza se identificaron las 4 variable independientes que mantien una correlación positiva con la variable dependiente rango de precios siendo la mas relevante la memoria RAM como independiente
 
@@ -70,15 +70,6 @@ El mejor modelo fue el "Voting" que obtuvo un rendimiento en diferentes aspectos
 El proyecto se encuentra en:
     
     El video de la explicación  https://1drv.ms/v/s!AnYb6RX9jHJcipkI_50IZ4LUvll4xQ?e=1YTh0S
-    El link del github  https://github.com/jboris/ucb_mlc_mod4_trabajo_1
-    El link del dataset   https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data
+    El link del dataset [https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data)
 
 
-```python
-
-```
-
-
-```python
-
-```
